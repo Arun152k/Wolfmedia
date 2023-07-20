@@ -3,7 +3,7 @@ CSC 540 Database Management System Course Project
 
 ## Project Overview
 
-My team and I designed a Database Management System mimicking a media streaming service to maintain and manage information on songs, artists, albums, podcasts, and payments. The ER diagram and the relational schema are influenced by the project specification shared by the course instructor. Please refer to the project reports in the `Reports` folder for detailed information. 
+My team and I designed a Database Management System mimicking a media streaming service to maintain and manage information on songs, artists, albums, podcasts, and payments. The `apis.py` code, in a nutshell, performs CRUD operations, payment management, and report generation tasks using Python with MariaDB backend. The ER diagram and the relational schema are influenced by the project specification shared by the course instructor. Please refer to the project reports in the `Reports` folder for detailed information. 
 
 How to run the code:
 1. Clone the repository using `git clone https://github.com/Arun152k/Wolfmedia.git`
