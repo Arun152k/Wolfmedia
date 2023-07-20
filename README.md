@@ -11,7 +11,12 @@ How to run the code:
 3. Run `python apis.py`
 
 Team Members:
+
 Arun Kumar Ramesh - arames25@ncsu.edu
+
 Kiron Jayesh - kjayesh@ncsu.edu
+
 Arun Srinivasan Parthasarathy - apartha4@ncsu.edu
+
 Adittya Soukarjya Saha - asaha4@ncsu.edu
+
