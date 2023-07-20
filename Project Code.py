@@ -4,7 +4,7 @@ from prettytable import PrettyTable
 
 
 
-cnx = mysql.connector.connect(user='apartha4', password='200477042',
+cnx = mysql.connector.connect(user='apartha4', password='*********',
                               host='classdb2.csc.ncsu.edu', database='apartha4', port = 3306)
 
 # Prints the Artists so User can see the IDs
@@ -1442,7 +1442,7 @@ def main():
         24: updateListeningCount,
         25: makePaymentForSongs,
         26: makePaymentForPodcasts,
-        27: makeUserPayment
+        27: makeUserPayment,
         28: generateMonthlyPlayCountPerSong
 
     }
